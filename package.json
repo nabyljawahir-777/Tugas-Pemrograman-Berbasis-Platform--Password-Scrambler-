@@ -1,0 +1,16 @@
+{
+  "name": "simple-password-scrambler-bylll",
+  "version": "1.0.0",
+  "description": "A simple custom password utility package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "password",
+    "scrambler",
+    "password-utility"
+  ],
+  "author": "Nabyl Jawahir",
+  "license": "MIT"
+}
